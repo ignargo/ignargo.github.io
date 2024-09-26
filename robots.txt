@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ignargo.github.io/sitemap.ignargo.gz
+Sitemap: https://ignargo.github.io/app/sitemap.ignargo.gz
+Sitemap: https://ignargo.github.io/assets/sitemap.ignargo.gz
+Sitemap: https://ignargo.github.io/css/sitemap.ignargo.gz
+Sitemap: https://ignargo.github.io/data/sitemap.ignargo.gz
+Sitemap: https://ignargo.github.io/includes/sitemap.ignargo.gz
+Sitemap: https://ignargo.github.io/item/sitemap.ignargo.gz
+Sitemap: https://ignargo.github.io/src/sitemap.ignargo.gz
